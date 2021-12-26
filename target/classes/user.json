@@ -1,0 +1,89 @@
+[
+  {
+    "id": 10,
+    "name": "Aziz",
+    "email": "ad",
+    "password": "123",
+    "isActive": true,
+    "balance": 0.0,
+    "role": "ADMIN"
+  },
+  {
+    "id": 11,
+    "name": "Asilbek",
+    "email": "cus",
+    "password": "123",
+    "isActive": true,
+    "balance": 1000000.0,
+    "role": "CUSTOMER",
+    "myCart": [],
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 10
+      },
+      "time": {
+        "hour": 8,
+        "minute": 53,
+        "second": 43,
+        "nano": 566542500
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "Aziz",
+    "email": "ad",
+    "password": "123",
+    "isActive": true,
+    "balance": 0.0,
+    "role": "ADMIN"
+  },
+  {
+    "id": 1750,
+    "name": "Zuhridin",
+    "email": "zukich",
+    "password": "123",
+    "isActive": true,
+    "balance": 0.0,
+    "role": "CUSTOMER",
+    "myCart": [],
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 10
+      },
+      "time": {
+        "hour": 8,
+        "minute": 54,
+        "second": 1,
+        "nano": 641467400
+      }
+    }
+  },
+  {
+    "id": 6540,
+    "name": "Zuhridin",
+    "email": "zuhridin",
+    "password": "123",
+    "isActive": true,
+    "balance": 10000.0,
+    "role": "CUSTOMER",
+    "myCart": [],
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 11
+      },
+      "time": {
+        "hour": 9,
+        "minute": 18,
+        "second": 40,
+        "nano": 814097700
+      }
+    }
+  }
+]
